@@ -1,0 +1,26 @@
+{
+  "raw_source_details": {
+    "zenodo_15845921_Data_Shopee_pdf.pdf": {
+      "pages": 8,
+      "raw_date_delimited_rows": 418
+    },
+    "zenodo_15845921_Data_Tokopedia.pdf": {
+      "pages": 8,
+      "raw_date_delimited_rows": 460
+    },
+    "zenodo_18198239_sentiment_analysis_data_1.csv": {
+      "raw_csv_records": 73
+    }
+  },
+  "raw_parsed_records": 951,
+  "clean_records": 949,
+  "clean_by_source": {
+    "zenodo_15845921": 876,
+    "zenodo_18198239": 73
+  },
+  "excluded_rows": 2,
+  "cleaning": "NFC, HTML unescape, whitespace normalization; exact text duplicate removal within source; conservative email/address/numeric-sequence redaction; source encodings not repaired; no sentiment or topic labels added.",
+  "scope": "Published keyword samples contain mixed countries/languages, promotions, social posts and discussion; source title is not a verified topical relevance label. No claim that these are representative Indonesian sellers/buyers.",
+  "pdf_extraction_limit": "Date-delimited original reading order. Source IDs and original tweet URLs absent in PDF. Page and row locators retained; encoding artifacts and extraction errors possible.",
+  "date_notes": "PDF source posts appear January2024; dataset publication2025. CSV publicationJan2026 and its tweet timestamps are Jan2026. Dates recorded per row."
+}

@@ -1,0 +1,52 @@
+{
+  "completed_utc": "2026-10-26T03:42:44.778249+00:00",
+  "purpose": "external mechanism benchmarking for fictional Nexora; data preparation only",
+  "analysis_performed": false,
+  "authoritative_clean_record_counts": {
+    "app_reviews": 1834939,
+    "historical_support_tweets": 513077,
+    "published_zenodo_records": 949
+  },
+  "sum_published_source_clean_records": 2348965,
+  "record_total_not_unique_people_or_globally_deduplicated_claims": true,
+  "public_index_unique_url_leads_separate": {
+    "unique_source_urls_across_discovery_streams": 415,
+    "by_platform": {
+      "reddit": 376,
+      "x": 39
+    },
+    "URLs_appearing_in_both_streams": 38,
+    "note": "Do not sum discovery-stream rows as independent source conversations. Does not deduplicate against externally downloaded corpora."
+  },
+  "app_context_subsets": {
+    "Indonesian_app_curator_context_reviewer_country_unknown": 278239,
+    "international_app_exports_reviewer_country_unknown": 1556700
+  },
+  "historical_support_strata_additive": {
+    "historical_international_core_marketplace_courier": 438115,
+    "historical_international_retail_adjacent": 74962
+  },
+  "historical_support_observed_components": 126882,
+  "historical_support_date_range": [
+    "2011-10-13T11:57:18+00:00",
+    "2017-12-03T23:13:02+00:00"
+  ],
+  "app_review_date_range": [
+    "2013-06-09",
+    "2025-02-09"
+  ],
+  "small_published_X_samples_dates": "Source PDF posts January2024; CSV posts January2026; see record locators; mixedlocale/promotional",
+  "raw_selected_counts": {
+    "app_reviews": 1835693,
+    "historical_support_tweets": 513077,
+    "published_zenodo_records": 951
+  },
+  "source_route_notes": [
+    "Most volume comes from historical downloaded research datasets and supplementary app reviews.",
+    "Agent Reach was actually run on public-web backend; indexed excerpts not full platform scrape.",
+    "X public-web probes returned no usable in-scope items; no authenticated X live scrape.",
+    "Indexed social URL leads are reported separately; do not add overlapping route representations.",
+    "Unrelated members inside original multiapp source archive are not counted.",
+    "Excluded Reddit archive contributes zero delivered corpus records."
+  ]
+}

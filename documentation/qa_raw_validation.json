@@ -1,0 +1,52 @@
+[
+  {
+    "source_id": "kaggle_bwandowando_shopee",
+    "archive": "bwandowando__shopee-app-reviews-from-google-store.zip",
+    "member": "SHOPEE_REVIEWS.csv",
+    "actual_raw_rows": 782079,
+    "expected_raw_rows": 782079,
+    "row_count_match": true,
+    "archive_sha256_match": true,
+    "metadata_license": "CC BY-NC-SA 4.0"
+  },
+  {
+    "source_id": "kaggle_bwandowando_lazada",
+    "archive": "bwandowando__lazada-app-reviews-from-google-store.zip",
+    "member": "LAZADA_REVIEWS.csv",
+    "actual_raw_rows": 775323,
+    "expected_raw_rows": 775323,
+    "row_count_match": true,
+    "archive_sha256_match": true,
+    "metadata_license": "CC BY-NC-SA 4.0"
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_tokopedia",
+    "archive": "rezkyyayang__reviews-of-indonesian-app-startups-on-playstore.zip",
+    "member": "tokopedia.csv",
+    "actual_raw_rows": 71242,
+    "expected_raw_rows": 71242,
+    "row_count_match": true,
+    "archive_sha256_match": true,
+    "metadata_license": "CC0: Public Domain"
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_bukalapak",
+    "archive": "rezkyyayang__reviews-of-indonesian-app-startups-on-playstore.zip",
+    "member": "bukalapak.csv",
+    "actual_raw_rows": 90147,
+    "expected_raw_rows": 90147,
+    "row_count_match": true,
+    "archive_sha256_match": true,
+    "metadata_license": "CC0: Public Domain"
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_blibli",
+    "archive": "rezkyyayang__reviews-of-indonesian-app-startups-on-playstore.zip",
+    "member": "blibli.csv",
+    "actual_raw_rows": 116902,
+    "expected_raw_rows": 116902,
+    "row_count_match": true,
+    "archive_sha256_match": true,
+    "metadata_license": "CC0: Public Domain"
+  }
+]

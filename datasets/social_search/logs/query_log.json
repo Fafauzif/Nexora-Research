@@ -1,0 +1,88 @@
+{
+  "logged_at_utc": "2026-10-26T03:34:40.809881+00:00",
+  "response_length": "long",
+  "strict_date_filter": null,
+  "runs": [
+    {
+      "capture_file": "search_001.json",
+      "engine": "system2",
+      "queries": [
+        "site.reddit.com/r/indonesia shopee biaya admin seller",
+        "site.reddit.com/r/indonesia tokopedia ongkir voucher",
+        "site.reddit.com shopee seller fees profit",
+        "site.x.com Shopee \"biaya admin\""
+      ]
+    },
+    {
+      "capture_file": "search_002.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/indonesia (\"Shopee\" OR \"Tokopedia\") (\"biaya\" OR \"seller\")",
+        "site:reddit.com/r/indonesia (\"ongkir\" OR \"voucher\") (\"Tokopedia\" OR \"Shopee\")",
+        "site:reddit.com/r/indonesia (\"kurir\" OR \"SPX\") (\"Shopee\" OR \"Tokopedia\")",
+        "site:reddit.com/r/indonesia (\"TikTok\" OR \"affiliate\") (\"jualan\" OR \"belanja\")"
+      ]
+    },
+    {
+      "capture_file": "search_003.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/indonesia \"Shopee\" \"untung\"",
+        "site:reddit.com/r/indonesia \"Tokopedia\" \"pindah\"",
+        "site:reddit.com/r/indonesia \"Shopee\" \"masih\" \"bagus\"",
+        "site:reddit.com/r/indonesia \"TikTok Shop\" \"seller\""
+      ]
+    },
+    {
+      "capture_file": "search_004.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/ShopeePH \"fees\" \"seller\"",
+        "site:reddit.com/r/ecommerce \"marketplace\" \"fees\" \"profit\"",
+        "site:reddit.com/r/EtsySellers \"fees\" \"profit\"",
+        "site:reddit.com/r/indonesia \"jualan\" \"iklan\" \"shopee\""
+      ]
+    },
+    {
+      "capture_file": "search_005.json",
+      "engine": "system1",
+      "queries": [
+        "site:x.com \"Shopee\" \"biaya admin\"",
+        "site:x.com \"Tokopedia\" \"ongkir\"",
+        "site:x.com \"Shopee\" \"seller\" \"untung\"",
+        "site:x.com \"TikTok Shop\" \"komisi\""
+      ]
+    },
+    {
+      "capture_file": "search_006.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/indonesia \"gratis ongkir\" \"2025\"",
+        "site:reddit.com/r/indonesia \"biaya admin\" \"2025\"",
+        "site:reddit.com/r/indonesia \"seller\" \"untung\" \"2024\"",
+        "site:reddit.com/r/indonesia \"Tokopedia\" \"tetap\" \"pilih\""
+      ]
+    },
+    {
+      "capture_file": "search_007.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/ShopeePH \"seller\" \"worth\"",
+        "site:reddit.com/r/ecommerce \"marketplace\" \"worth the fees\"",
+        "site:reddit.com/r/EtsySellers \"fees\" \"worth it\"",
+        "site:reddit.com/r/indonesia \"Tokopedia\" \"hobi\" \"Shopee\""
+      ]
+    },
+    {
+      "capture_file": "search_008.json",
+      "engine": "system1",
+      "queries": [
+        "site:reddit.com/r/indonesia \"live\" \"belanja\" \"TikTok\"",
+        "site:reddit.com/r/indonesia \"iklan\" \"boncos\"",
+        "site:reddit.com/r/indonesia \"Shopee\" \"retur\" \"seller\"",
+        "site:reddit.com/r/indonesia \"Tokopedia\" \"seller\" \"saldo\""
+      ]
+    }
+  ],
+  "note": "Results were provided at batch level; exact individual-query attribution within a batch is not claimed."
+}

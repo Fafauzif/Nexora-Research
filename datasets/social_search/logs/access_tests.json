@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Panniantong/Agent-Reach/main/docs/README_en.md",
+    "status": 200,
+    "bytes": 16227,
+    "content_type": "text/plain; charset=utf-8",
+    "retrieved_at": "2026-10-26T03:29:07.575002+00:00",
+    "file": "collection/social_access/raw/access_test_0.txt",
+    "preview": "\n<h1 align=\"center\">\ud83d\udc41\ufe0f Agent Reach</h1>\n\n<p align=\"center\">\n  <strong>Let your AI agent reach the parts of the internet it can't reach on its own</strong>\n</p>\n\n<p align=\"center\">\n  Login-walled "
+  },
+  {
+    "url": "https://www.reddit.com/r/indonesia/search.json?q=shopee&restrict_sr=1&limit=10",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.reddit.com/r/indonesia/search/?q=shopee&restrict_sr=1",
+    "status": 200,
+    "bytes": 8425,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-26T03:29:22.563105+00:00",
+    "file": "collection/social_access/raw/access_test_2.txt",
+    "preview": "\n  <!DOCTYPE html>\n  <html lang=\"en\">\n    <head>\n      <meta charset=\"UTF-8\" />\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n      <link href=\"https://www.redditstati"
+  },
+  {
+    "url": "https://x.com/search?q=shopee%20biaya%20admin&src=typed_query&f=live",
+    "status": 200,
+    "bytes": 24484,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-26T03:29:37.676118+00:00",
+    "file": "collection/social_access/raw/access_test_3.txt",
+    "preview": "<!DOCTYPE html><html lang=\"en\" dir=\"ltr\" data-app-env=\"prod\" data-app-version=\"762a52c150f5eb52d1118e7adc79eb4fc392aa16\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,"
+  },
+  {
+    "url": "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=indonesia&title=shopee&limit=100",
+    "error": "HTTP Error 403: Forbidden",
+    "data_records_retrieved": 0
+  }
+]

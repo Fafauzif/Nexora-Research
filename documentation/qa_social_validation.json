@@ -1,0 +1,30 @@
+{
+  "clean/social_index_records.jsonl": {
+    "rows": 202,
+    "unique_urls": 202,
+    "platforms": {
+      "reddit": 163,
+      "x": 39
+    }
+  },
+  "agentreach_clean/agentreach_publicweb_records.jsonl": {
+    "rows": 251,
+    "unique_urls": 251,
+    "platforms": {
+      "reddit": 251
+    }
+  },
+  "registry": {
+    "rows": 415,
+    "fields": [
+      "canonical_url",
+      "platform",
+      "streams",
+      "record_ids"
+    ]
+  },
+  "union_urls": 415,
+  "intersection_urls": 38,
+  "unique_registry_urls": 415,
+  "registry_matches_union": true
+}

@@ -1,0 +1,13 @@
+{
+  "ref": "bwandowando/lazada-app-reviews-from-google-store",
+  "url": "https://www.kaggle.com/api/v1/datasets/download/bwandowando/lazada-app-reviews-from-google-store",
+  "downloaded_at_utc": "2026-10-26T03:31:59Z",
+  "sha256": "a168124a2f8421940777c64e2e4c2a073f65eb9f8110258034edfe987c9f3531",
+  "compressed_bytes": 31182567,
+  "files": [
+    {
+      "name": "LAZADA_REVIEWS.csv",
+      "bytes": 102079972
+    }
+  ]
+}

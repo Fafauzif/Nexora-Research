@@ -1,0 +1,53 @@
+{
+  "source_rows_scanned": 2811774,
+  "raw_selected_rows": 513077,
+  "clean_tweet_records": 513077,
+  "unique_conversation_components": 126882,
+  "unique_clean_text_hashes": 507444,
+  "duplicate_id_rows_removed": 0,
+  "empty_rows_removed": 0,
+  "selected_company_seed_handles": {
+    "AmazonHelp": "marketplace",
+    "AskeBay": "marketplace",
+    "UPSHelp": "courier",
+    "AskTarget": "retail_adjacent",
+    "ArgosHelpers": "retail_adjacent",
+    "NeweggService": "retail_adjacent",
+    "Walmart": "retail_adjacent",
+    "NikeSupport": "retail_adjacent"
+  },
+  "selected_company_support_seed_counts": {
+    "AmazonHelp": 169840,
+    "NikeSupport": 3468,
+    "UPSHelp": 17817,
+    "AskeBay": 9686,
+    "ArgosHelpers": 12174,
+    "AskTarget": 13218,
+    "Walmart": 2643,
+    "NeweggService": 1079
+  },
+  "records_by_connected_company_nonadditive": {
+    "AmazonHelp": 374042,
+    "NikeSupport": 7795,
+    "UPSHelp": 44552,
+    "AskeBay": 21169,
+    "ArgosHelpers": 28340,
+    "AskTarget": 30645,
+    "Walmart": 6059,
+    "NeweggService": 2481
+  },
+  "records_by_stratum_additive": {
+    "historical_international_core_marketplace_courier": 438115,
+    "historical_international_retail_adjacent": 74962
+  },
+  "earliest_created_at": "2011-10-13T11:57:18+00:00",
+  "latest_created_at": "2017-12-03T23:13:02+00:00",
+  "source_dataset_version": 10,
+  "source_last_updated": "2017-12-03T23:44:27.157Z",
+  "source_license": "CC BY-NC-SA 4.0",
+  "archive_sha256": "7ffe106c4158c22f79b2a220297e4090dd68fa034c6e58710578ad8cfeea558a",
+  "archive_bytes": 176772673,
+  "source_dataset_url": "https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter",
+  "selection_method": "Union all source tweet reply edges, retain components containing at least one selected company-authored tweet. Numeric tweet_id is source surrogate, not live Twitter status ID.",
+  "counting_note": "Records are individual source tweets; conversation count is distinct connected reply components; exact repeated text retained to preserve conversational context; cross-company record counts are nonadditive."
+}

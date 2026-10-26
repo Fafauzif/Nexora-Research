@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kaggle_bwandowando_shopee",
+    "ref": "bwandowando/shopee-app-reviews-from-google-store",
+    "member": "SHOPEE_REVIEWS.csv",
+    "platform": "Shopee",
+    "license": "CC BY-NC-SA 4.0",
+    "text": "review_text",
+    "date": "review_datetime_utc",
+    "rating": "review_rating",
+    "helpful": "review_likes",
+    "version": "author_app_version",
+    "timezone": "UTC",
+    "geography": "Not specified per review; international app corpus"
+  },
+  {
+    "id": "kaggle_bwandowando_lazada",
+    "ref": "bwandowando/lazada-app-reviews-from-google-store",
+    "member": "LAZADA_REVIEWS.csv",
+    "platform": "Lazada",
+    "license": "CC BY-NC-SA 4.0",
+    "text": "review_text",
+    "date": "review_datetime_utc",
+    "rating": "review_rating",
+    "helpful": "review_likes",
+    "version": "author_app_version",
+    "timezone": "UTC",
+    "geography": "Not specified per review; international app corpus"
+  },
+  {
+    "id": "kaggle_rezkyyayang_tokopedia",
+    "ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "member": "tokopedia.csv",
+    "platform": "Tokopedia",
+    "license": "CC0: Public Domain",
+    "text": "content",
+    "date": "created_at",
+    "rating": "score",
+    "helpful": "thumbsUpCount",
+    "version": null,
+    "timezone": "unknown",
+    "geography": "Dataset curator describes Indonesian applications; reviewer location unknown"
+  },
+  {
+    "id": "kaggle_rezkyyayang_bukalapak",
+    "ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "member": "bukalapak.csv",
+    "platform": "Bukalapak",
+    "license": "CC0: Public Domain",
+    "text": "content",
+    "date": "created_at",
+    "rating": "score",
+    "helpful": "thumbsUpCount",
+    "version": null,
+    "timezone": "unknown",
+    "geography": "Dataset curator describes Indonesian applications; reviewer location unknown"
+  },
+  {
+    "id": "kaggle_rezkyyayang_blibli",
+    "ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "member": "blibli.csv",
+    "platform": "Blibli",
+    "license": "CC0: Public Domain",
+    "text": "content",
+    "date": "created_at",
+    "rating": "score",
+    "helpful": "thumbsUpCount",
+    "version": null,
+    "timezone": "unknown",
+    "geography": "Dataset curator describes Indonesian applications; reviewer location unknown"
+  }
+]

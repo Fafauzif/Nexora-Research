@@ -1,0 +1,9 @@
+{
+  "unique_source_urls_across_discovery_streams": 415,
+  "by_platform": {
+    "reddit": 376,
+    "x": 39
+  },
+  "URLs_appearing_in_both_streams": 38,
+  "note": "Do not sum discovery-stream rows as independent source conversations. Does not deduplicate against externally downloaded corpora."
+}

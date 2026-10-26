@@ -1,0 +1,41 @@
+{
+  "ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+  "url": "https://www.kaggle.com/api/v1/datasets/download/rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+  "downloaded_at_utc": "2026-10-26T03:31:59Z",
+  "sha256": "769087fe6842fb1756e0da07852b8e1d68a6537be2b3639eff28118bc7bfa56e",
+  "compressed_bytes": 43468834,
+  "files": [
+    {
+      "name": "blibli.csv",
+      "bytes": 8903859
+    },
+    {
+      "name": "bukalapak.csv",
+      "bytes": 14794584
+    },
+    {
+      "name": "dana.csv",
+      "bytes": 21106929
+    },
+    {
+      "name": "gojek.csv",
+      "bytes": 19971730
+    },
+    {
+      "name": "ovo.csv",
+      "bytes": 13856341
+    },
+    {
+      "name": "ruangguru.csv",
+      "bytes": 12903231
+    },
+    {
+      "name": "tokopedia.csv",
+      "bytes": 15843227
+    },
+    {
+      "name": "traveloka.csv",
+      "bytes": 10642220
+    }
+  ]
+}

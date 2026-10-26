@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://zenodo.org/api/records/18198239/files/sentiment_analysis_data%20(1).csv/content",
+    "destination": "collection/x_collection/raw/zenodo_18198239_sentiment_analysis_data_1.csv",
+    "collected_utc": "2026-10-26T03:31:38Z",
+    "elapsed_seconds": 6.98,
+    "ok": true,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8,text/plain; charset=utf-8",
+    "bytes": 28903,
+    "sha256": "336287a344f40307f1e27d6e2a667c8ee844c0c019438ee180aff2d3ec87807b"
+  },
+  {
+    "url": "https://zenodo.org/api/records/15845921/files/Data%20Tokopedia.pdf/content",
+    "destination": "collection/x_collection/raw/zenodo_15845921_Data_Tokopedia.pdf",
+    "collected_utc": "2026-10-26T03:31:48Z",
+    "elapsed_seconds": 9.44,
+    "ok": true,
+    "status": 200,
+    "content_type": "application/octet-stream,application/octet-stream",
+    "bytes": 432194,
+    "sha256": "02ba141d0ece77717e1d4efe8e9f4fac20a1fa6a31e1c7c25eec483d119a0ffd"
+  },
+  {
+    "url": "https://zenodo.org/api/records/15845921/files/Data%20Shopee%20pdf.pdf/content",
+    "destination": "collection/x_collection/raw/zenodo_15845921_Data_Shopee_pdf.pdf",
+    "collected_utc": "2026-10-26T03:31:57Z",
+    "elapsed_seconds": 8.78,
+    "ok": true,
+    "status": 200,
+    "content_type": "application/octet-stream,application/octet-stream",
+    "bytes": 218009,
+    "sha256": "ab5804b9b07ee7803adbb1042e02a7f58454362e3371e92071d3268d6018d66c"
+  },
+  {
+    "url": "https://www.kaggle.com/api/v1/datasets/list?search=customer-support-on-twitter",
+    "destination": "collection/x_collection/metadata/kaggle_twcs_search.json",
+    "collected_utc": "2026-10-26T03:32:05Z",
+    "elapsed_seconds": 8.13,
+    "ok": true,
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 34611,
+    "sha256": "a10a71effc0fb6802d584dba1668f3e88e65a90a3955f090870d55a7a24f655b"
+  },
+  {
+    "url": "https://www.kaggle.com/api/v1/datasets/download/thoughtvector/customer-support-on-twitter",
+    "destination": "collection/x_collection/raw/twcs_download.zip",
+    "collected_utc": "2026-10-26T03:32:25Z",
+    "elapsed_seconds": 20.03,
+    "ok": true,
+    "status": 200,
+    "content_type": "application/zip",
+    "bytes": 176772673,
+    "sha256": "7ffe106c4158c22f79b2a220297e4090dd68fa034c6e58710578ad8cfeea558a"
+  }
+]

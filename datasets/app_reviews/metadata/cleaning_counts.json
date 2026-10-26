@@ -1,0 +1,102 @@
+[
+  {
+    "source_id": "kaggle_bwandowando_shopee",
+    "dataset_ref": "bwandowando/shopee-app-reviews-from-google-store",
+    "archive_member": "SHOPEE_REVIEWS.csv",
+    "platform": "Shopee",
+    "raw_rows": 782079,
+    "retained_rows": 781789,
+    "empty_text_excluded": 287,
+    "duplicates_excluded": 3,
+    "invalid_date_retained": 0,
+    "earliest_date": "2015-06-22",
+    "latest_date": "2023-11-13",
+    "rating_values": {
+      "5": 591248,
+      "3": 25678,
+      "1": 94108,
+      "4": 54135,
+      "2": 16620
+    }
+  },
+  {
+    "source_id": "kaggle_bwandowando_lazada",
+    "dataset_ref": "bwandowando/lazada-app-reviews-from-google-store",
+    "archive_member": "LAZADA_REVIEWS.csv",
+    "platform": "Lazada",
+    "raw_rows": 775323,
+    "retained_rows": 774911,
+    "empty_text_excluded": 396,
+    "duplicates_excluded": 16,
+    "invalid_date_retained": 0,
+    "earliest_date": "2013-06-09",
+    "latest_date": "2023-11-13",
+    "rating_values": {
+      "5": 563780,
+      "1": 96542,
+      "4": 68202,
+      "2": 16247,
+      "3": 30140
+    }
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_tokopedia",
+    "dataset_ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "archive_member": "tokopedia.csv",
+    "platform": "Tokopedia",
+    "raw_rows": 71242,
+    "retained_rows": 71229,
+    "empty_text_excluded": 0,
+    "duplicates_excluded": 13,
+    "invalid_date_retained": 0,
+    "earliest_date": "2018-09-12",
+    "latest_date": "2024-10-25",
+    "rating_values": {
+      "5": 31551,
+      "3": 4585,
+      "1": 26174,
+      "2": 4883,
+      "4": 4036
+    }
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_bukalapak",
+    "dataset_ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "archive_member": "bukalapak.csv",
+    "platform": "Bukalapak",
+    "raw_rows": 90147,
+    "retained_rows": 90127,
+    "empty_text_excluded": 0,
+    "duplicates_excluded": 20,
+    "invalid_date_retained": 0,
+    "earliest_date": "2018-09-12",
+    "latest_date": "2024-10-27",
+    "rating_values": {
+      "2": 4120,
+      "1": 19348,
+      "5": 57023,
+      "4": 5511,
+      "3": 4125
+    }
+  },
+  {
+    "source_id": "kaggle_rezkyyayang_blibli",
+    "dataset_ref": "rezkyyayang/reviews-of-indonesian-app-startups-on-playstore",
+    "archive_member": "blibli.csv",
+    "platform": "Blibli",
+    "raw_rows": 116902,
+    "retained_rows": 116883,
+    "empty_text_excluded": 18,
+    "duplicates_excluded": 1,
+    "invalid_date_retained": 0,
+    "earliest_date": "2013-12-11",
+    "latest_date": "2025-02-09",
+    "rating_values": {
+      "1": 15219,
+      "5": 72511,
+      "2": 4719,
+      "3": 11188,
+      "4": 13246
+    }
+  }
+]

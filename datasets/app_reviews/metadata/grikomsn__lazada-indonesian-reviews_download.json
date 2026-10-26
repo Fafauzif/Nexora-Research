@@ -1,0 +1,21 @@
+{
+  "ref": "grikomsn/lazada-indonesian-reviews",
+  "url": "https://www.kaggle.com/api/v1/datasets/download/grikomsn/lazada-indonesian-reviews",
+  "downloaded_at_utc": "2026-10-26T03:31:58Z",
+  "sha256": "f5ec82a133e838f01537087f9e51877b256a72604f355607db5d1e1e967405ee",
+  "compressed_bytes": 7004381,
+  "files": [
+    {
+      "name": "20191002-items.csv",
+      "bytes": 3018363
+    },
+    {
+      "name": "20191002-reviews.csv",
+      "bytes": 30011428
+    },
+    {
+      "name": "categories.txt",
+      "bytes": 95
+    }
+  ]
+}

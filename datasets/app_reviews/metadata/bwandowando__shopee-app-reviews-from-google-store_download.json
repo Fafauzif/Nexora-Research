@@ -1,0 +1,13 @@
+{
+  "ref": "bwandowando/shopee-app-reviews-from-google-store",
+  "url": "https://www.kaggle.com/api/v1/datasets/download/bwandowando/shopee-app-reviews-from-google-store",
+  "downloaded_at_utc": "2026-10-26T03:31:59Z",
+  "sha256": "4d28caedd1f785cb9fb0bb139e89afe3d18c27954fcac05b6441e777bdad7ab8",
+  "compressed_bytes": 32881383,
+  "files": [
+    {
+      "name": "SHOPEE_REVIEWS.csv",
+      "bytes": 110888533
+    }
+  ]
+}

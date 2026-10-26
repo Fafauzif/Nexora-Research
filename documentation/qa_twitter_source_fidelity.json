@@ -1,0 +1,7 @@
+{
+  "source_full_csv_rows_scanned": 2811774,
+  "systematic_scoped_raw_samples": 21,
+  "exact_field_value_matches": 21,
+  "mismatch_ids": [],
+  "scope": "Original fieldvalues at systematically selected raw scoped rows; CSV byte serialization not identical by design"
+}

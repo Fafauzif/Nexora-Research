@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Panniantong/Agent-Reach",
+  "source_commit": "14c213405669414492bda0f8d52cc6531d062c45",
+  "installed_version": "1.6.0",
+  "installation_scope": "task-local virtual environment; no global setup",
+  "executed_backends": [
+    "public-web"
+  ],
+  "browser_backend_run": false,
+  "credentials_or_sessions_used": false,
+  "pilot_count_notes": "Root one Reddit and one X pilot plus social subagent35queries; records normalized with URLdedup; root Reddit10items included in330appearance count.",
+  "source_installation_docs": "docs/install.md in repository; installed from inspected local source clone with uv rather than lookalike PyPI package",
+  "timestamp_utc": "2026-10-26T03:42:44.778249+00:00"
+}

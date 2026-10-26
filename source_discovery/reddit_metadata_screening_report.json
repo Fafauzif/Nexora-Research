@@ -1,0 +1,27 @@
+{
+  "source_id": "kaggle_bwandowando_indonesia2026_v283",
+  "source_file": "indonesia_subreddit_comments.csv",
+  "source_snapshot_version": 283,
+  "source_rows_screened": 809078,
+  "raw_matched_metadata_rows": 4013,
+  "clean_unique_comment_ids": 3998,
+  "duplicate_or_missing_id_rows_excluded": 15,
+  "retained_text_records": 0,
+  "retained_usernames": 0,
+  "archive_ids_are_uuid_not_live_reddit_ids": true,
+  "live_reddit_permalinks_retained": 0,
+  "earliest_matched_utc": "2025-12-31T13:47:37+00:00",
+  "latest_matched_utc": "2026-10-22T14:32:55+00:00",
+  "patterns": {
+    "shopee": "\\bshopee\\b|\\bsyopi\\b|\\bsopi\\b",
+    "tokopedia": "\\btokopedia\\b|\\btokped\\b|\\btoped\\b",
+    "lazada": "\\blazada\\b",
+    "bukalapak": "\\bbukalapak\\b",
+    "blibli": "\\bblibli\\b",
+    "tiktok_shop": "\\btiktok\\s*shop\\b|\\bkeranjang\\s*kuning\\b",
+    "marketplace": "\\bmarketplace\\b|\\be[ -]?commerce\\b|\\bolshop\\b|\\btoko\\s+online\\b|\\bbelanja\\s+online\\b",
+    "shipping_terms": "\\bongkir\\b|\\bgratis\\s+ongkir\\b|\\bcod\\b"
+  },
+  "license_status": "Kaggle lists Reddit API Terms; no open redistribution license established. Source bodies deliberately excluded.",
+  "scope": "Archive screening metadata only; source IDs are pseudonymous UUIDs and cannot resolve live Reddit content. Query terms deliberately broad and not proof of relevance or mechanisms; not the analysis corpus."
+}

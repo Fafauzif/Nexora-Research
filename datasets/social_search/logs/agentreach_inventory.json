@@ -1,0 +1,17 @@
+{
+  "raw_query_envelopes": 36,
+  "query_log_rows": 35,
+  "successful_query_envelopes": 32,
+  "source_item_appearances": 330,
+  "unique_indexed_source_records": 251,
+  "by_platform": {
+    "reddit": 251
+  },
+  "by_forum_scope": {
+    "indonesian_context": 117,
+    "international_comparator_or_unverified": 134
+  },
+  "exclusions": [],
+  "full_platform_scrape": false,
+  "note": "Counts are technical inventory, not substantive findings; public-web search is bounded and partial."
+}

@@ -1,0 +1,60 @@
+{
+  "file": "x_collection/ready/clean/twcs_ecommerce_connected_clean.csv.gz",
+  "actual_clean_records": 513077,
+  "expected_clean_records": 513077,
+  "count_match": true,
+  "unique_record_ids": 513077,
+  "unique_components": 126882,
+  "components_match": true,
+  "schema": [
+    "record_id",
+    "source_id",
+    "source_record_id",
+    "source_url",
+    "source_platform",
+    "record_type",
+    "stratum",
+    "country",
+    "geography_basis",
+    "language",
+    "language_basis",
+    "created_at_utc",
+    "author_id_source",
+    "author_role",
+    "text",
+    "text_sha256",
+    "conversation_id",
+    "company_handles",
+    "response_record_ids",
+    "in_response_to_record_id",
+    "retrieval_method",
+    "source_license",
+    "source_year",
+    "cleaning_flags",
+    "company_types",
+    "inbound_as_reported"
+  ],
+  "actual_stratum_counts": {
+    "historical_international_core_marketplace_courier": 438115,
+    "historical_international_retail_adjacent": 74962
+  },
+  "stratum_counts_match": true,
+  "date_range": [
+    "2011-10-13T11:57:18+00:00",
+    "2017-12-03T23:13:02+00:00"
+  ],
+  "date_range_matches": true,
+  "issues": {},
+  "actual_scoped_raw_records": 513077,
+  "raw_count_match": true,
+  "raw_fields": [
+    "tweet_id",
+    "author_id",
+    "inbound",
+    "created_at",
+    "text",
+    "response_tweet_id",
+    "in_response_to_tweet_id"
+  ],
+  "hash_definition": "SHA256 of casefolded normalized/redacted text, not app-review hash definition"
+}

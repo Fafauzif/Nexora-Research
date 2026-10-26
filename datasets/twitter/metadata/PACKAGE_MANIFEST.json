@@ -1,0 +1,111 @@
+{
+  "package": "x_collection",
+  "counts": {
+    "TWCS_clean_tweets": 513077,
+    "TWCS_connected_reply_components": 126882,
+    "Zenodo_clean_text_records": 949,
+    "total_clean_records": 514026
+  },
+  "files": [
+    {
+      "path": "DATA_DICTIONARY_X.md",
+      "bytes": 5012,
+      "sha256": "e4e7fb4819587709d708303796b94aeac46eec719a3d30229678c307d06c540d"
+    },
+    {
+      "path": "METHODOLOGY_X_COLLECTION.md",
+      "bytes": 9701,
+      "sha256": "4b04301bd1f5e2b1864e8723ea424fe58b69f132f23b741c5b19a60a06688222"
+    },
+    {
+      "path": "clean/twcs_ecommerce_connected_clean.csv.gz",
+      "bytes": 77695311,
+      "sha256": "5d08007354b1b16ecf629c64626a38d984ab6b84e0316eb2ae1865884effb039"
+    },
+    {
+      "path": "clean/zenodo_ecommerce_twitter_clean.csv",
+      "bytes": 692110,
+      "sha256": "12f13d832075c4948b01a8fdc1b944a8c697d46bfb1e1a815246231667b8a043"
+    },
+    {
+      "path": "clean/zenodo_ecommerce_twitter_clean.jsonl",
+      "bytes": 985623,
+      "sha256": "996e0241a65e813d58bcab4e3c286309ac99e4aaa96b910021067958672658b0"
+    },
+    {
+      "path": "metadata/downloads.json",
+      "bytes": 2298,
+      "sha256": "5a0477b82dee18e6cca18f47cf21777645270203df35369d059d443dd5ace06e"
+    },
+    {
+      "path": "metadata/twcs_manifest.json",
+      "bytes": 2086,
+      "sha256": "a83a3c7844ebfbefd1a3d540ff488749730a42b8709181002635c4fd391e3440"
+    },
+    {
+      "path": "metadata/twcs_official_metadata.json",
+      "bytes": 6564,
+      "sha256": "ec7abd402364cd37b55259fdf8cbee7cfc820c07506611e77f38c5fdfe564fd2"
+    },
+    {
+      "path": "metadata/zenodo_15845921.json",
+      "bytes": 4382,
+      "sha256": "d6bc7972f2b8ddc0f9c60fd5ecdfb3a64256704e6c253c4025c1bcb9afe90088"
+    },
+    {
+      "path": "metadata/zenodo_18198239.json",
+      "bytes": 3739,
+      "sha256": "7c38d4c9d86dcebd679b6cbcdf41d63bc8f3b8450639f299fd4dfccc12b8f785"
+    },
+    {
+      "path": "metadata/zenodo_cleaning_exclusions.json",
+      "bytes": 278,
+      "sha256": "b363f55868df7ef20661337dc85976105c4e19dccc488034a93c3a28f9790447"
+    },
+    {
+      "path": "metadata/zenodo_manifest.json",
+      "bytes": 1326,
+      "sha256": "e14e81b4a8b1cc01198980e0cd333ba91764d5d36c358b665c7306969304ad8f"
+    },
+    {
+      "path": "raw/twcs_ecommerce_connected_original_rows.csv.gz",
+      "bytes": 34014314,
+      "sha256": "163fe8cc4f33675df25ac874d859c945588cddf4f9478e680f587e16d0e0a009"
+    },
+    {
+      "path": "raw/zenodo_15845921_Data_Shopee_pdf.pdf",
+      "bytes": 218009,
+      "sha256": "ab5804b9b07ee7803adbb1042e02a7f58454362e3371e92071d3268d6018d66c"
+    },
+    {
+      "path": "raw/zenodo_15845921_Data_Tokopedia.pdf",
+      "bytes": 432194,
+      "sha256": "02ba141d0ece77717e1d4efe8e9f4fac20a1fa6a31e1c7c25eec483d119a0ffd"
+    },
+    {
+      "path": "raw/zenodo_15845921_pages_original_extraction.jsonl",
+      "bytes": 134794,
+      "sha256": "d2d90027d92f531816cee1ba686697a82745538bec7ca772fdf0ecd091a77cea"
+    },
+    {
+      "path": "raw/zenodo_18198239_sentiment_analysis_data_1.csv",
+      "bytes": 28903,
+      "sha256": "336287a344f40307f1e27d6e2a667c8ee844c0c019438ee180aff2d3ec87807b"
+    },
+    {
+      "path": "scripts/collect.py",
+      "bytes": 1595,
+      "sha256": "3d395b59e7afb3e7dd9ceb274be98c37ad057951000fae90baf1fd84ea0ba5ff"
+    },
+    {
+      "path": "scripts/process_twcs.py",
+      "bytes": 6707,
+      "sha256": "ca1a11c20208796fa3ef0241e7236f7ee40cb506e65efa3340e18084d48a300e"
+    },
+    {
+      "path": "scripts/process_zenodo.py",
+      "bytes": 6030,
+      "sha256": "b4ddab9c230da87105adcf7ab4faa5e6c7cf66da3df24bfa921365a84d1abf13"
+    }
+  ]
+}

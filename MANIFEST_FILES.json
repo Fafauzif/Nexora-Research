@@ -1,0 +1,937 @@
+[
+  {
+    "path": "RUN_SUMMARY.json",
+    "bytes": 2234,
+    "sha256": "3f146c4c363b3c4b7b14129d54b6b9a17adeb81ab71c858f9c51cddb46ba89fa"
+  },
+  {
+    "path": "START_HERE.md",
+    "bytes": 6000,
+    "sha256": "15311186ac27766eabce28c2d1051072b79a979161081317bae8c2251ac04c84"
+  },
+  {
+    "path": "context/IBSC_2026_Nexora_Master_AI_Context_Pack_UPDATED.md",
+    "bytes": 321820,
+    "sha256": "71c333759e0ac5ad00fb723effcfebabb875046d03de6dcb34b3625adcdda62c"
+  },
+  {
+    "path": "datasets/app_reviews/METHODOLOGY.md",
+    "bytes": 11639,
+    "sha256": "ed508affc5820c19db22e4e888126df9372ecb46d28d4dd4d2d6ad3aa688b3e5"
+  },
+  {
+    "path": "datasets/app_reviews/clean/app_reviews.jsonl.gz",
+    "bytes": 256742729,
+    "sha256": "fea8cf11f7e90986332f3d6edbde966a9c5518c36ca615bf34802b68acfe19f2"
+  },
+  {
+    "path": "datasets/app_reviews/clean/exclusions.jsonl",
+    "bytes": 72853,
+    "sha256": "1b5f3dc8569ef3d0fb622950786c50882460e0493b461ce9b36df81129e0779d"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/accepted_sources.json",
+    "bytes": 2325,
+    "sha256": "fc77e0574dd584f9c443423e433a9c8da759ad07805c5a42566de72bcdfda06d"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/bwandowando__lazada-app-reviews-from-google-store.json",
+    "bytes": 9930,
+    "sha256": "8d5ea40112b18827e50b54b4b64a01474964a9bca258cd68dc585d1759d46dab"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/bwandowando__lazada-app-reviews-from-google-store_download.json",
+    "bytes": 422,
+    "sha256": "b25ddc55ab2ab1509340efd488843834b1968b1aa2484d6fa53e3ddecb0ffc90"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/bwandowando__shopee-app-reviews-from-google-store.json",
+    "bytes": 8018,
+    "sha256": "705aae03671d657925230ddf3c3f462a55d27008aaad18ea8075ff4fe5f4e09b"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/bwandowando__shopee-app-reviews-from-google-store_download.json",
+    "bytes": 422,
+    "sha256": "00876bfaf674f1dca05711d6e2344de3aa2b85fefedeb0356bcb6d6f9f409d2b"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/cleaning_counts.json",
+    "bytes": 2663,
+    "sha256": "f22153b61b09528cfb7ca4b5466a72a132f3f169868ce27ddacca7d63485dd06"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/download_results.json",
+    "bytes": 2454,
+    "sha256": "e79aae41e615606f4afd0b5b82ed2c8006e4ba4d653b618d79989d53923e7dfc"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/grikomsn__lazada-indonesian-reviews.json",
+    "bytes": 5711,
+    "sha256": "36657f358c36e94a25caaea69a5fb0c402a98945c543e0ddf2d715cb144a5bc7"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/grikomsn__lazada-indonesian-reviews_download.json",
+    "bytes": 529,
+    "sha256": "f6186d5648ca0b299b3c598049980db91fc18f2e9d602532318774435eb9b60e"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/rejected_sources.json",
+    "bytes": 456,
+    "sha256": "c7835d680413009274f7d94f9efc730a08ed3fd596d50d0cfb2cd82813a9ae11"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/rezkyyayang__reviews-of-indonesian-app-startups-on-playstore.json",
+    "bytes": 15380,
+    "sha256": "b37baaf549df6f408966b6f95c2822d3a08f96471ebeb1a0809a651ecbb95868"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/rezkyyayang__reviews-of-indonesian-app-startups-on-playstore_download.json",
+    "bytes": 895,
+    "sha256": "c248cfca34c146a1411a995ff608cf10c0c5c145ba9bfb7f45bbfeb6da745053"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/search_bukalapak_reviews.json",
+    "bytes": 6927,
+    "sha256": "6365da8fb0be4bfba9c987c3ab76e2605f3cc01cc8eaf8d80ddb4f945c687c06"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/search_lazada_reviews.json",
+    "bytes": 26971,
+    "sha256": "c8b484276a79db9da02aa47f97867e91df4f349056588bcfdcdc84346831c105"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/search_shopee_app_reviews.json",
+    "bytes": 19011,
+    "sha256": "69b5118e0fce6825745f2d0cf5352c558c1af7c14efe165dd1018133145946be"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/search_shopee_reviews.json",
+    "bytes": 49554,
+    "sha256": "b72e57cc154f9b323c07511af748f0c3d3d51caa161872f8d34c2d224eaa3007"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/search_tokopedia_reviews.json",
+    "bytes": 65476,
+    "sha256": "981aed76e50ef3c8ac6b74dfb92fbf2e72978c73aa7b125d4a48b37caf49e0ce"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/shymammoth__shopee-reviews.json",
+    "bytes": 2773,
+    "sha256": "0f62d8f622e6f511a7891c05a7ccb78ce7f2dbb63799afb9a0302d6b87701216"
+  },
+  {
+    "path": "datasets/app_reviews/metadata/validation.json",
+    "bytes": 189,
+    "sha256": "0f53bc5dab79af3630c8dcde049e5e5a24f25833bd19c6e7bc408ac3b89dea31"
+  },
+  {
+    "path": "datasets/app_reviews/raw/bwandowando__lazada-app-reviews-from-google-store.zip",
+    "bytes": 31182567,
+    "sha256": "a168124a2f8421940777c64e2e4c2a073f65eb9f8110258034edfe987c9f3531"
+  },
+  {
+    "path": "datasets/app_reviews/raw/bwandowando__shopee-app-reviews-from-google-store.zip",
+    "bytes": 32881383,
+    "sha256": "4d28caedd1f785cb9fb0bb139e89afe3d18c27954fcac05b6441e777bdad7ab8"
+  },
+  {
+    "path": "datasets/app_reviews/raw/rezkyyayang__reviews-of-indonesian-app-startups-on-playstore.zip",
+    "bytes": 43468834,
+    "sha256": "769087fe6842fb1756e0da07852b8e1d68a6537be2b3639eff28118bc7bfa56e"
+  },
+  {
+    "path": "datasets/app_reviews/scripts/clean.py",
+    "bytes": 4757,
+    "sha256": "eb939678d4af99887440dcadea09b214dd22005ffe811c78eb97b8af9457ad00"
+  },
+  {
+    "path": "datasets/app_reviews/scripts/collect.py",
+    "bytes": 1530,
+    "sha256": "0f2f83abd056de925087938484f20811909668dc240013836702708f523a8b0c"
+  },
+  {
+    "path": "datasets/app_reviews/scripts/finalize.py",
+    "bytes": 2342,
+    "sha256": "f4d9d2b355f51408781e1671dcb239e29b9097eaf630ea325621352ad6466e5c"
+  },
+  {
+    "path": "datasets/app_reviews/source_manifest.json",
+    "bytes": 12813,
+    "sha256": "10648fb04698d58ea08e82ae840043613261a21d6ceab33f6d74d50944730b7c"
+  },
+  {
+    "path": "datasets/social_search/README_SOCIAL_COLLECTION.md",
+    "bytes": 10785,
+    "sha256": "1b019c0c077ad0f5f86b2122020d634e4991ec192805b7eba423fb853774ff68"
+  },
+  {
+    "path": "datasets/social_search/agentreach_clean/agentreach_publicweb_records.csv",
+    "bytes": 430298,
+    "sha256": "1845b1f870076a24663fe3d1b798ee8a9a86ec4deb32a8549a4ba39e3787c6a0"
+  },
+  {
+    "path": "datasets/social_search/agentreach_clean/agentreach_publicweb_records.jsonl",
+    "bytes": 528831,
+    "sha256": "71ef889010a3e8856c8866273752045993a157de60202b79d6a94e5ffd011310"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/001_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/001_reddit.stdout.json",
+    "bytes": 16942,
+    "sha256": "11e22af5e99d4385d6ea6480a3be4d3eb55db12fe49f6c0b25f3569beadead97"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/002_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/002_reddit.stdout.json",
+    "bytes": 17107,
+    "sha256": "06eead5bc60800c813aedb1b70c8d4b5f5594a26c71c1675f301bccff17ee68d"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/003_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/003_reddit.stdout.json",
+    "bytes": 15601,
+    "sha256": "7441100dbaafc0e49222407e431e4b10cbf2605f0f13bdc5e771250dc4e8413e"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/004_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/004_reddit.stdout.json",
+    "bytes": 16785,
+    "sha256": "fb0f34eb1c8bfed3fd1edc5a8ca34cb794b4177da8d7384c377fb123fa8dc5a8"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/005_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/005_reddit.stdout.json",
+    "bytes": 17195,
+    "sha256": "903a8c81196d334087cdfef20f7d915ffbc8f88279706683e6a2a7a331c405c4"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/006_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/006_reddit.stdout.json",
+    "bytes": 16396,
+    "sha256": "714325f410a44cd7b3630696cf69e328e5728ef770fe272c231f1c46583b85fc"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/007_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/007_reddit.stdout.json",
+    "bytes": 16671,
+    "sha256": "5b8b0131ab243e252a03f29214bc278d3ba518aa514be6c2faf5d436a63428e2"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/008_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/008_reddit.stdout.json",
+    "bytes": 12866,
+    "sha256": "aea4971133c0e1665100df608d254934a1d9ccbe6f2df09c967474c733c93e22"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/009_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/009_reddit.stdout.json",
+    "bytes": 17430,
+    "sha256": "f86a3106169d5bf1ab6393bf3a9e76139c6b83ebccc5383ddda1bd6a609059f9"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/010_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/010_reddit.stdout.json",
+    "bytes": 17370,
+    "sha256": "a08138356cd239fbdcf4c0ca01f58b3161367466812ca0400393faa949494b10"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/011_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/011_reddit.stdout.json",
+    "bytes": 17410,
+    "sha256": "985da1cf9d0bbc1eaa8d23b0362e4324f42dce9272ee1745a57ff99c819ae46f"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/012_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/012_reddit.stdout.json",
+    "bytes": 16331,
+    "sha256": "93fd1104223cf32632d8dc031b13c510551da4af9850b9aabb754844ea16fe37"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/013_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/013_reddit.stdout.json",
+    "bytes": 15081,
+    "sha256": "b4d7c308d8465ddf9a56bf550862da60e76317efe17192bda3fe43d787d63e6f"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/014_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/014_reddit.stdout.json",
+    "bytes": 16166,
+    "sha256": "dbaa369d02e44a3030dcfa5030ad5843d8f0b960def50621c75c3a5d26b2ecfc"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/015_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/015_reddit.stdout.json",
+    "bytes": 16677,
+    "sha256": "062461ae071506a94579d8d99c59b4805fd487e76c67c0b25ac7ed6dfd564edc"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/016_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/016_reddit.stdout.json",
+    "bytes": 14937,
+    "sha256": "508790e9264938f82457d1a9eca7f98516b37b6cde9101b4e38f950e632278d3"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/017_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/017_reddit.stdout.json",
+    "bytes": 17284,
+    "sha256": "fd98fef694101b3ed04b297edbe54abe64be6e2b6a6c9ced1e60043f2fd36f95"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/018_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/018_reddit.stdout.json",
+    "bytes": 16946,
+    "sha256": "e07f8afe4924d4a588c2e0eee740ca333d735c1451f719361e1529f85502caa7"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/019_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/019_reddit.stdout.json",
+    "bytes": 16035,
+    "sha256": "977178186c527f5323b5d342b541791e37473c97a3e81af0285e907092813467"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/020_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/020_reddit.stdout.json",
+    "bytes": 17078,
+    "sha256": "78913848dec399f1902771a9a165fe9909745c0ae1a7039bacad53785cf42d1d"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/021_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/021_reddit.stdout.json",
+    "bytes": 16511,
+    "sha256": "bb1ffb36559487f88a7de0af3b2cdbbc6a0abcf265236405b296ca898d99bb73"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/022_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/022_reddit.stdout.json",
+    "bytes": 16422,
+    "sha256": "71cb5ea54f99a62d6b8e6a31e98aba44c488a8dedec75ad3d1a3da690a03fbda"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/023_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/023_reddit.stdout.json",
+    "bytes": 16590,
+    "sha256": "8348376c111ba753dca3c588ed32c6e93e688241bbaee776ded71af0f44d9829"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/024_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/024_reddit.stdout.json",
+    "bytes": 16932,
+    "sha256": "4f3d9c80a4863a7bbb000791ea83c29a8edfa825d912f81827a36de82c5261d7"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/025_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/025_reddit.stdout.json",
+    "bytes": 16184,
+    "sha256": "6439ade7524b4fd9dc665041e394b3f8b519db4a17ac6d21969bb5a1d04605f5"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/026_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/026_reddit.stdout.json",
+    "bytes": 15788,
+    "sha256": "21c7e9251b88a537aba056dd6d06b07f8a682930902d455241e8f0140bf4acc8"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/027_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/027_reddit.stdout.json",
+    "bytes": 17696,
+    "sha256": "3d88d6cc728d49759a0e0a85151e8984e50b4396300eefc68c9bd620fb6257aa"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/028_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/028_reddit.stdout.json",
+    "bytes": 16441,
+    "sha256": "32124cf61e800348a46648eec0de40a4b5bed5280343c2444f71b01d62e09c1e"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/029_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/029_reddit.stdout.json",
+    "bytes": 15933,
+    "sha256": "badb90eb896ba07206d5172f92c5edb3d0a8478aa75208ed60c905cbc3098cc5"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/030_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/030_reddit.stdout.json",
+    "bytes": 16016,
+    "sha256": "f48e2f63f503ef87c391c9efefffb0a057ea9dacdb3b200cc5691acc97bbd126"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/031_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/031_reddit.stdout.json",
+    "bytes": 16608,
+    "sha256": "38d3d45e0cfda8b1fc960b9132782332cb76dbca10cd3ed8a91a757c90541d18"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/032_reddit.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/032_reddit.stdout.json",
+    "bytes": 17087,
+    "sha256": "51ad98df60ea2ff6e60a6c14a04b1ca9ad006122fe35b601908dda6ae5f6caf2"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/033_twitter.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/033_twitter.stdout.json",
+    "bytes": 461,
+    "sha256": "7eefecc88a3f4883d0046851c7615ac21fd768d2485b44432c461494ab83eba1"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/034_twitter.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/034_twitter.stdout.json",
+    "bytes": 461,
+    "sha256": "27a2ff4a51ecd7195a18911b83fd24c7794a859aefa7d3f84d297e3af6701c3f"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/035_twitter.stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "datasets/social_search/agentreach_raw/035_twitter.stdout.json",
+    "bytes": 462,
+    "sha256": "cf5b6d2a9577c5f6c696f6df77fea07d3f78a981afd1aabea96e390535b12300"
+  },
+  {
+    "path": "datasets/social_search/checksums.sha256",
+    "bytes": 10181,
+    "sha256": "4b453c283ed8aca834b4a4be4910a8cac7de42da7af6720ec8b38833f3cfdf9e"
+  },
+  {
+    "path": "datasets/social_search/clean/reddit_thread_read_excerpts.csv",
+    "bytes": 25471,
+    "sha256": "9bb5254b6e2ce220ce70276672bdb88f78c58338a521c11c965035f392007d7d"
+  },
+  {
+    "path": "datasets/social_search/clean/reddit_thread_read_excerpts.jsonl",
+    "bytes": 27052,
+    "sha256": "a41dde5cee0219a95d6f56a0521c1b5734c30e1272432a3b76818e19f8e09738"
+  },
+  {
+    "path": "datasets/social_search/clean/social_index_records.csv",
+    "bytes": 192354,
+    "sha256": "14568d6757cdae3a290fd0a440dfa75acd3bbfbd1a28e6edcb1dd02bc7baf579"
+  },
+  {
+    "path": "datasets/social_search/clean/social_index_records.jsonl",
+    "bytes": 270946,
+    "sha256": "e3270000f56d74f2f947da6021cb9b3c18d757c33b7bd992eb6db20acde6721b"
+  },
+  {
+    "path": "datasets/social_search/clean/social_source_url_registry.csv",
+    "bytes": 50822,
+    "sha256": "c3ee162f9006ea9b42a2e1b0a4604d58957cd08a2fe804c92eb477a1195b2a2c"
+  },
+  {
+    "path": "datasets/social_search/logs/access_tests.json",
+    "bytes": 1933,
+    "sha256": "3fce107bac6eecd777c1bb7e91c59991ce840e0d9449efc5723b16d06853ac45"
+  },
+  {
+    "path": "datasets/social_search/logs/agentreach_inventory.json",
+    "bytes": 481,
+    "sha256": "11179d56b222fc417035b9f7e8cf61947abaf665316db2cd830a1c6c95d6ff10"
+  },
+  {
+    "path": "datasets/social_search/logs/agentreach_queries.jsonl",
+    "bytes": 21776,
+    "sha256": "2402a9590553be1828b10872e95a611440d347a38bfc36cb0ace92ccf8b6d184"
+  },
+  {
+    "path": "datasets/social_search/logs/collection_inventory.json",
+    "bytes": 534,
+    "sha256": "0b4bc56113ac067c677d1d0f147558892464d893bc4a8450f9be4d62bf4bb76c"
+  },
+  {
+    "path": "datasets/social_search/logs/cross_stream_inventory.json",
+    "bytes": 294,
+    "sha256": "fdd95d82349827ba50edcdce03c4dae763157684c51d9d04aa2095cfef7d2885"
+  },
+  {
+    "path": "datasets/social_search/logs/query_log.json",
+    "bytes": 3257,
+    "sha256": "e10c8be7882ae6b72dcae7934f3c4a297c4a685ad09d5b35e4d982d68da09129"
+  },
+  {
+    "path": "datasets/social_search/raw/access_test_0.txt",
+    "bytes": 16227,
+    "sha256": "70b7a093307eb5325ef4638f90f8ad4697f35257b865c31ad7a7e28756a99f5c"
+  },
+  {
+    "path": "datasets/social_search/raw/access_test_2.txt",
+    "bytes": 8425,
+    "sha256": "2e8070e1702d11704367932d1d27fc9e597dd3eb8959feac535d9d4513bf8fa9"
+  },
+  {
+    "path": "datasets/social_search/raw/access_test_3.txt",
+    "bytes": 24484,
+    "sha256": "acf5fd9ce3364e1a083ddf1b824461aec7620e18c0127be1fcc047dd71c1be3c"
+  },
+  {
+    "path": "datasets/social_search/raw/arctic_api_README.md",
+    "bytes": 27070,
+    "sha256": "358d64b8993830f11950708dc3852abe7532648fa87b948573007388f45c1491"
+  },
+  {
+    "path": "datasets/social_search/raw/search_001.json",
+    "bytes": 12453,
+    "sha256": "647fdc2ff87a3140ca47882f7a36b6aa6fef385c36525d9cf86416000465c2bb"
+  },
+  {
+    "path": "datasets/social_search/raw/search_002.json",
+    "bytes": 43779,
+    "sha256": "0633be4fa1466be1dc6c8870cf197e46e14edc92f078bb269c73f3d13cbf5cd3"
+  },
+  {
+    "path": "datasets/social_search/raw/search_003.json",
+    "bytes": 42639,
+    "sha256": "4f7ae7611416eafc6db5ff66dba2b582512cef20d497914f9a73897700746ce1"
+  },
+  {
+    "path": "datasets/social_search/raw/search_004.json",
+    "bytes": 46259,
+    "sha256": "d135039326f0a2ebe19b76775769df5b603a5573840c2bb0606eeb5a576e8805"
+  },
+  {
+    "path": "datasets/social_search/raw/search_005.json",
+    "bytes": 22312,
+    "sha256": "8cadd521e6bc8f8cdb0bf2a7d5b54f02a82f8641c509246196e5ce5bf2739913"
+  },
+  {
+    "path": "datasets/social_search/raw/search_006.json",
+    "bytes": 45223,
+    "sha256": "0d893fe6dfb430858673ff1728b391ea54548a29026a831aa782b9ff21cd9a1d"
+  },
+  {
+    "path": "datasets/social_search/raw/search_007.json",
+    "bytes": 43964,
+    "sha256": "74360caea83085ef8c46397d89f5db74bf4fffd7c164a81c6f82ee886bb0bab3"
+  },
+  {
+    "path": "datasets/social_search/raw/search_008.json",
+    "bytes": 43525,
+    "sha256": "b33e714415d23f91436d3301495a66ceb5428f153451cd6cc9670dc20ef14b50"
+  },
+  {
+    "path": "datasets/social_search/raw/thread_reads_001.json",
+    "bytes": 27564,
+    "sha256": "5f8eb8a5ec8a6c4dcab623887b70e551d36077da5b97194f11ede24c4dda7a33"
+  },
+  {
+    "path": "datasets/social_search/scripts/build_social_registry.py",
+    "bytes": 1430,
+    "sha256": "2bd3e731fba07d2373b5cd5d63ee30ec73300a414c76c639fd7469d929990fb3"
+  },
+  {
+    "path": "datasets/social_search/scripts/normalize_agentreach.py",
+    "bytes": 4209,
+    "sha256": "abb1ddb375be49b150fb37544f7b102fc85f48a2743d488ccdd50e29230145e2"
+  },
+  {
+    "path": "datasets/social_search/scripts/normalize_collection.py",
+    "bytes": 6649,
+    "sha256": "53f14e34ab4d82b6e4f005dbf813799423cc362fd430ef3f78cdafcd8d22d558"
+  },
+  {
+    "path": "datasets/social_search/scripts/run_agentreach_public.py",
+    "bytes": 4096,
+    "sha256": "399a78220291addb55db5bc2ba4eb2159856dc81fa14c208f92b76266a716efe"
+  },
+  {
+    "path": "datasets/twitter/DATA_DICTIONARY_X.md",
+    "bytes": 5012,
+    "sha256": "e4e7fb4819587709d708303796b94aeac46eec719a3d30229678c307d06c540d"
+  },
+  {
+    "path": "datasets/twitter/METHODOLOGY_X_COLLECTION.md",
+    "bytes": 9701,
+    "sha256": "4b04301bd1f5e2b1864e8723ea424fe58b69f132f23b741c5b19a60a06688222"
+  },
+  {
+    "path": "datasets/twitter/clean/twcs_ecommerce_connected_clean.csv.gz",
+    "bytes": 77695311,
+    "sha256": "5d08007354b1b16ecf629c64626a38d984ab6b84e0316eb2ae1865884effb039"
+  },
+  {
+    "path": "datasets/twitter/clean/zenodo_ecommerce_twitter_clean.csv",
+    "bytes": 692110,
+    "sha256": "12f13d832075c4948b01a8fdc1b944a8c697d46bfb1e1a815246231667b8a043"
+  },
+  {
+    "path": "datasets/twitter/clean/zenodo_ecommerce_twitter_clean.jsonl",
+    "bytes": 985623,
+    "sha256": "996e0241a65e813d58bcab4e3c286309ac99e4aaa96b910021067958672658b0"
+  },
+  {
+    "path": "datasets/twitter/metadata/PACKAGE_MANIFEST.json",
+    "bytes": 3614,
+    "sha256": "61ae6c91591ce828af70a0a70c3f2d4db2dba5aa96b8515fc63fa7c1300694b9"
+  },
+  {
+    "path": "datasets/twitter/metadata/downloads.json",
+    "bytes": 2298,
+    "sha256": "5a0477b82dee18e6cca18f47cf21777645270203df35369d059d443dd5ace06e"
+  },
+  {
+    "path": "datasets/twitter/metadata/twcs_manifest.json",
+    "bytes": 2086,
+    "sha256": "a83a3c7844ebfbefd1a3d540ff488749730a42b8709181002635c4fd391e3440"
+  },
+  {
+    "path": "datasets/twitter/metadata/twcs_official_metadata.json",
+    "bytes": 6564,
+    "sha256": "ec7abd402364cd37b55259fdf8cbee7cfc820c07506611e77f38c5fdfe564fd2"
+  },
+  {
+    "path": "datasets/twitter/metadata/zenodo_15845921.json",
+    "bytes": 4382,
+    "sha256": "d6bc7972f2b8ddc0f9c60fd5ecdfb3a64256704e6c253c4025c1bcb9afe90088"
+  },
+  {
+    "path": "datasets/twitter/metadata/zenodo_18198239.json",
+    "bytes": 3739,
+    "sha256": "7c38d4c9d86dcebd679b6cbcdf41d63bc8f3b8450639f299fd4dfccc12b8f785"
+  },
+  {
+    "path": "datasets/twitter/metadata/zenodo_cleaning_exclusions.json",
+    "bytes": 278,
+    "sha256": "b363f55868df7ef20661337dc85976105c4e19dccc488034a93c3a28f9790447"
+  },
+  {
+    "path": "datasets/twitter/metadata/zenodo_manifest.json",
+    "bytes": 1326,
+    "sha256": "e14e81b4a8b1cc01198980e0cd333ba91764d5d36c358b665c7306969304ad8f"
+  },
+  {
+    "path": "datasets/twitter/raw/twcs_ecommerce_connected_original_rows.csv.gz",
+    "bytes": 34014314,
+    "sha256": "163fe8cc4f33675df25ac874d859c945588cddf4f9478e680f587e16d0e0a009"
+  },
+  {
+    "path": "datasets/twitter/raw/zenodo_15845921_Data_Shopee_pdf.pdf",
+    "bytes": 218009,
+    "sha256": "ab5804b9b07ee7803adbb1042e02a7f58454362e3371e92071d3268d6018d66c"
+  },
+  {
+    "path": "datasets/twitter/raw/zenodo_15845921_Data_Tokopedia.pdf",
+    "bytes": 432194,
+    "sha256": "02ba141d0ece77717e1d4efe8e9f4fac20a1fa6a31e1c7c25eec483d119a0ffd"
+  },
+  {
+    "path": "datasets/twitter/raw/zenodo_15845921_pages_original_extraction.jsonl",
+    "bytes": 134794,
+    "sha256": "d2d90027d92f531816cee1ba686697a82745538bec7ca772fdf0ecd091a77cea"
+  },
+  {
+    "path": "datasets/twitter/raw/zenodo_18198239_sentiment_analysis_data_1.csv",
+    "bytes": 28903,
+    "sha256": "336287a344f40307f1e27d6e2a667c8ee844c0c019438ee180aff2d3ec87807b"
+  },
+  {
+    "path": "datasets/twitter/scripts/collect.py",
+    "bytes": 1595,
+    "sha256": "3d395b59e7afb3e7dd9ceb274be98c37ad057951000fae90baf1fd84ea0ba5ff"
+  },
+  {
+    "path": "datasets/twitter/scripts/process_twcs.py",
+    "bytes": 6707,
+    "sha256": "ca1a11c20208796fa3ef0241e7236f7ee40cb506e65efa3340e18084d48a300e"
+  },
+  {
+    "path": "datasets/twitter/scripts/process_zenodo.py",
+    "bytes": 6030,
+    "sha256": "b4ddab9c230da87105adcf7ab4faa5e6c7cf66da3df24bfa921365a84d1abf13"
+  },
+  {
+    "path": "documentation/COLLECTION_PROTOCOL.md",
+    "bytes": 29605,
+    "sha256": "2a070744bf50dc89ed9d14e9360ed5b20fc76fc3cb87d559fd6467a8250a6aa9"
+  },
+  {
+    "path": "documentation/DATA_DICTIONARY.md",
+    "bytes": 5160,
+    "sha256": "11d910dc6dcced0e4f4f7924ea36ae24ebf240ca1911660c28dd9da19cc93ca7"
+  },
+  {
+    "path": "documentation/LICENSE_AND_ATTRIBUTION.md",
+    "bytes": 3817,
+    "sha256": "ba2c0f265369091debe7234174d99500b1dee16b1a38d188a898a244d9236b67"
+  },
+  {
+    "path": "documentation/METHODOLOGY_COLLECTION_AND_CLEANING.md",
+    "bytes": 14139,
+    "sha256": "937afc60ec83dde9cb0d886b75c0a7720f42267e9b13fc6a68b078538e701aa9"
+  },
+  {
+    "path": "documentation/QA_REVIEW.md",
+    "bytes": 12144,
+    "sha256": "9bfd5df5606d2b2cd7ead6aa9a45048107dd1b7e7829be9db6d45f63e37a4b10"
+  },
+  {
+    "path": "documentation/qa_raw_validation.json",
+    "bytes": 1688,
+    "sha256": "1cbfe8082b78cdc7211bbb529b0f502247e99fb5b5c367a9475032afd7d484bd"
+  },
+  {
+    "path": "documentation/qa_social_validation.json",
+    "bytes": 548,
+    "sha256": "b6c0b58068e26ec6b5a9f939f54f2d6d9e6fda7c8c3ea6b295e4ffccbbe8212e"
+  },
+  {
+    "path": "documentation/qa_twitter_source_fidelity.json",
+    "bytes": 267,
+    "sha256": "8b8d07588dd92b06a2c8a881e449a3258be946f36413e1ccee4a28d0e11dfddb"
+  },
+  {
+    "path": "documentation/qa_twitter_validation.json",
+    "bytes": 1467,
+    "sha256": "37894560a209a4eeb7927e36cb6d0db57b5fb1bc3e93511c091fd5b5d339f672"
+  },
+  {
+    "path": "documentation/qa_validation.json",
+    "bytes": 3550,
+    "sha256": "1a6e7a04eed038a420b96e03347416417db98125ff40bd49f2f521e4b5cc6621"
+  },
+  {
+    "path": "documentation/run_qa_raw.py",
+    "bytes": 1169,
+    "sha256": "66c4e63d040e1897706691b3d4517e9e2690955418c405a83529c6e54496a894"
+  },
+  {
+    "path": "documentation/run_qa_twitter.py",
+    "bytes": 2403,
+    "sha256": "a2da36722ca137d63329f0e935f439e855af05847fe77c3e017b7301786ba676"
+  },
+  {
+    "path": "documentation/run_qa_twitter_source_fidelity.py",
+    "bytes": 1060,
+    "sha256": "f9cb6e51b3af2325bf317e5baee427880dafe03a1803e21504a4cd79cff1a792"
+  },
+  {
+    "path": "documentation/run_qa_validation.py",
+    "bytes": 2027,
+    "sha256": "b079fe01f998077bd2d30c30b8d5589ee162f39113c52ca1ef587b4e2ff1abc6"
+  },
+  {
+    "path": "scripts/verify_package.py",
+    "bytes": 1515,
+    "sha256": "91a3a86c383af54c1be5d89bb1cbddf9ed4d13f60ae6450506bc58972d9616a5"
+  },
+  {
+    "path": "source_discovery/README_REDDIT_SOURCE_DISCOVERY.md",
+    "bytes": 3427,
+    "sha256": "c101817030919d69d83eaae42408dfa3e6738bb3debf3b752b81c0c7918f4e5c"
+  },
+  {
+    "path": "source_discovery/download_reddit.py",
+    "bytes": 945,
+    "sha256": "aa6c442f77983dbec3e6787e34cbf458a6462e42a8785563f1340ee6cee3129e"
+  },
+  {
+    "path": "source_discovery/filter_reddit_metadata.py",
+    "bytes": 4031,
+    "sha256": "e0525937f2ac26dc773bf86f8d172f06c53e3602349fa0bf258d81f6e314a045"
+  },
+  {
+    "path": "source_discovery/kaggle_reddit-rindonesia-subreddit-dataset-2026_list.json",
+    "bytes": 12842,
+    "sha256": "8c8a6c5257d75ba620b128b7900894829621047cea84671d75bbf672f49ef9ac"
+  },
+  {
+    "path": "source_discovery/kaggle_reddit-rindonesia-subreddit-dataset-2026_view.json",
+    "bytes": 7404,
+    "sha256": "e5ec68ae0edb2a4a28f39d00fa1f665aebaaf6ab79565479573d20eada7c4a04"
+  },
+  {
+    "path": "source_discovery/reddit_download_log.json",
+    "bytes": 502,
+    "sha256": "e2823b130d2e4d76a6e9012628cede1424070f91646773b6cc0f332c3166e547"
+  },
+  {
+    "path": "source_discovery/reddit_metadata_screening_report.json",
+    "bytes": 1399,
+    "sha256": "8a5a25be109a5656091244de70841acdd753370c1ccab20a9e5e682af27f6f79"
+  },
+  {
+    "path": "source_discovery/source_candidates.json",
+    "bytes": 1293,
+    "sha256": "7f83b83bff22622a0deb552c706be0663e21abe3086c18bf339e83cf3a4c1a34"
+  },
+  {
+    "path": "tooling/AGENT_REACH_PROVENANCE.json",
+    "bytes": 734,
+    "sha256": "2709902bc16b52190c50b3875810d3db8db358085b61dd7a10af5321adde8581"
+  },
+  {
+    "path": "tooling/agentreach_access_log.jsonl",
+    "bytes": 551,
+    "sha256": "39bb46156fe7fe07055baaa37d7857d094db9493584229726fbde29dca6537bd"
+  },
+  {
+    "path": "tooling/channels.json",
+    "bytes": 16067,
+    "sha256": "541900666e9dd369340289eda8303f1ad6a03705a2db2065ff7902c38c73e0be"
+  },
+  {
+    "path": "tooling/pilot_1_stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "tooling/pilot_1_stdout.json",
+    "bytes": 17411,
+    "sha256": "4b0f16a572238726ef763266e28805de96013799eb4583811122c446477d2172"
+  },
+  {
+    "path": "tooling/pilot_2_stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "tooling/pilot_2_stdout.json",
+    "bytes": 461,
+    "sha256": "335f839792cb5c2a8b3c0aaae31fd9cc5e910a0209ff2a4b6fbdfc5003bfa686"
+  },
+  {
+    "path": "tooling/run_public_pilot.py",
+    "bytes": 967,
+    "sha256": "57cc6d7411d06775ad914286f14c10fc89546114a10dd5be66f6206193d9798f"
+  },
+  {
+    "path": "tooling/version.json",
+    "bytes": 129,
+    "sha256": "0f14c82f03370d84233f021e11ab9b5fb643105ca883dfb5add3e3aefc360557"
+  }
+]

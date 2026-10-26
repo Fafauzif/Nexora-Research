@@ -1,0 +1,7 @@
+{
+  "gzip_crc_and_complete_stream": "passed",
+  "decompressed_line_count": 1834939,
+  "JSON_schema_spotchecks": 193,
+  "count_matches_manifest": true,
+  "raw_archive_hashes_checked": true
+}

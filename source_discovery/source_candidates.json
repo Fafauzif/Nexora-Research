@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "kaggle_bwandowando_indonesia2026_v283",
+    "url": "https://www.kaggle.com/datasets/bwandowando/reddit-rindonesia-subreddit-dataset-2026",
+    "source_license_label": "Reddit API Terms",
+    "status": "excluded_no_row_level_records_incorporated",
+    "reason": "Redistribution rights unresolved; archive identifiers are UUIDs without valid live permalinks. Downloaded for inspection, screened locally, all source text and derived row-level metadata deleted; only inventory and QC logs preserved."
+  },
+  {
+    "source_id": "hf_w11wo_reddit_indonesia_sarcastic",
+    "url": "https://huggingface.co/datasets/w11wo/reddit_indonesia_sarcastic",
+    "source_license_label": "apache-2.0 (dataset card)",
+    "status": "not_collected",
+    "reason": "Sarcasm-selected 2020-2023 general Indonesian comments; not a large general e-commerce corpus. Selection makes it unsuitable for the requested broad contemporary collection."
+  },
+  {
+    "source_id": "kaggle_bwandowando_indonesia_archive",
+    "url": "https://www.kaggle.com/datasets/bwandowando/reddit-rindonesia-subreddit-dataset",
+    "source_license_label": "Reddit API Terms",
+    "status": "not_collected",
+    "reason": "5GB broad archive with unresolved text redistribution rights. No bulk download justified."
+  }
+]
